@@ -1,6 +1,8 @@
 # Starship-Bubu-01-Prototype-Trackball-Unit
 Solo trackball unit powered by my Omega Supreme all in one PMW3660 sensor trackball, PER56, RP2040 integrated module.
 
+Trackball ball support, encoder support and encoder knob support are all printed from Ariamelon's Kiwano VIK module in her GitHub.  
+
 Nov 3, 2023
 Final product is still being testing and still waiting for PER56 encoder to arrive. Firmware working flawlessly. Once the PER56 final piece arrives, then Starship Bubu-01 Prototype will be fully assembled and ready.
 Design gerbers will be made public and since this solo trackball is designed using EasyEDA, Kicad pcb file conversion will be a headache so the pcb file will not be released. However, schematic pdf and BOM will be release. The parts are manually hand solder so if you want to print this pcb, 
