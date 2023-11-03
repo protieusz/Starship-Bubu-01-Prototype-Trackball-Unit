@@ -7,6 +7,10 @@ Design gerbers will be made public and since this solo trackball is designed usi
 be prepared to advanced soldering skills to solder 0402 size components and lots of wiring soldering. Print and use as your own risk! No support will be provided. Please follow the below licensing if you want to modify, use, etc.  Omega Supreme module BOM and gerber files will be release if its own repository which will be updated later on.
 
 Fusion360 Design
+
+![IMG_0244](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/e45f69f3-6914-4ab5-884d-85d2a90fbc7c)
+
+
 ![Screenshot 2023-10-26 at 3 34 44 PM](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/307f44d4-6c9e-4680-beb1-ba55135bb610)
 
 
