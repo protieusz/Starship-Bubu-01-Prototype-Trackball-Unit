@@ -1,0 +1,62 @@
+{
+    "keyboard_name": "starshipbubu02",
+    "manufacturer": "protieuskeebs",
+    "url": "https://instagram.com/protieuskeebs/",
+    "maintainer": "protieus",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0000",
+        "device_version": "1.0.0"
+    },
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "processor_type": "arm",
+    "protocol": "ChibiOS",
+    "debounce": 5,
+    "matrix_pins": {
+        "rows": ["GP15", "GP14"],
+        "cols": ["GP0", "GP12", "GP13"]
+    },
+    "matrix_size": {
+        "cols": 3,
+        "rows": 2
+    },
+    "encoder": {
+        "rotary": [
+            { "pin_a": "GP4", "pin_b": "GP5", "resolution": 4}
+        ]
+    },
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "mousekey": true,
+        "extrakey": true,
+        "encoder": true,
+        "rgblight": true
+    },
+
+    //"rgblight": {
+        //"pin": "GP10",
+        //"led_count": 6,
+        //"hue_steps": 8,
+        //"saturation_steps": 8,
+        //"brightness_steps": 8,
+        //"max_brightness": 255,
+        //"sleep": false,
+        //"animations": {
+            //"all": true
+        //}
+    //},
+
+ "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "label": "K000", "matrix": [0, 0], "w": 1, "x": 0, "y": 0 },
+                { "label": "K002", "matrix": [0, 2], "w": 1, "x": 1, "y": 0 },
+                { "label": "K100", "matrix": [1, 0], "w": 1, "x": 2, "y": 0 },
+                { "label": "K101", "matrix": [1, 1], "w": 1, "x": 3, "y": 0 },
+                { "label": "K102", "matrix": [1, 2], "w": 1, "x": 4, "y": 0 }
+            ]
+        }
+    }
+}
