@@ -18,6 +18,17 @@ Here is a picture from Sadek's Fingerpunch discord channel show which plastic an
 
 ![Screenshot 2023-11-12 at 12 56 26 AM](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/c0f417d2-73b7-4d1a-9268-1d38a24060ce)
 
+![IMG_0197](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/45d4db02-d2dc-46cd-adca-c67d608995a0)
+![IMG_0183](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/d7aa2d84-de72-4b37-bc32-8b1912d52c14)
+![IMG_0197](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/7b17e411-c463-4f5d-9b16-9f3b36b8ad78)
+![IMG_0195](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/1f47aa55-9f36-4ef5-85ce-5e214d3c9dd8)
+![IMG_0198](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/3fc83ea8-0493-41ba-9a63-8287e03f0aae)
+![IMG_0196](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/3f70114f-ceb0-458f-95e6-3cc4f775b5b3)
+![IMG_0197](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/61e8ccc5-48b5-4f8f-a2ec-1ed818c77f0c)
+![IMG_0186](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/3f4ff913-51e1-4493-acff-de1168dccc81)
+
+
+
 
 
 I will upload a build guide soon.
@@ -25,6 +36,10 @@ I will upload a build guide soon.
 ![IMG_0343](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/bb0bad28-7a3d-4b2a-a375-dcb4d4cfe448)
 ![IMG_0344](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/73e75975-6a15-4f94-925a-a06b8632c00f)
 ![IMG_0345](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/92c49a82-6ae0-4a49-9a74-3ce011eace38)
+
+Required OmegaSupreme module
+
+
 
 Nov 3, 2023
 Final product is still being testing and still waiting for PER56 encoder to arrive. Firmware working flawlessly. Once the PER56 final piece arrives, then Starship Bubu-01 Prototype will be fully assembled and ready.
