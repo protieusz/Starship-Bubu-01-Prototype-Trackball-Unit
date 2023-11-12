@@ -11,6 +11,8 @@ Uploaded both STEP and STLs for the case.  I already lost a lot of brain cells d
 
 As for the trackball support low profile holder, base PER56 encoder part and the ribbed knob please refer to AriaMelon's Kiwano GitHub for her 3DP STL files. https://github.com/Ariamelon/Kiwano/tree/main/3DP 
 
+The trackball/RP2040 module aka the Omega Supreme I use for building the Starship Bubu-01 Prototype is...
+
 I will upload a build guide soon.
 
 ![IMG_0343](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/bb0bad28-7a3d-4b2a-a375-dcb4d4cfe448)
