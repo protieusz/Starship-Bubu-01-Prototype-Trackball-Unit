@@ -9,7 +9,8 @@ QMK source code was borrowed from Aki27's Bally build. I just copy and pasted mo
 
 In order to build this Starship Bubu, you would need the Bubu PCB itself and an OmegaSupreme REV 4 module which contains the RP2040 mcu, PMW3360 sensor and PER56 encoder.
 
-Nov 11,2023
+Nov 11,2023 Update:
+
 Upgraded with a janky case. 
 https://www.instagram.com/p/CzhdMmdv5LE/?igshid=YzE4YTliZjNlMA==
 
