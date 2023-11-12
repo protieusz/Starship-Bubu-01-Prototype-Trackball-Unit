@@ -26,6 +26,14 @@ Here is a picture from Sadek's Fingerpunch discord channel show which plastic an
 
 A full build guide will be uploaded soon.
 
+Full Production Final Build Pics:
+
+![IMG_0343](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/bb0bad28-7a3d-4b2a-a375-dcb4d4cfe448)
+![IMG_0344](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/73e75975-6a15-4f94-925a-a06b8632c00f)
+![IMG_0345](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/92c49a82-6ae0-4a49-9a74-3ce011eace38)
+
+Build & Test Fit Process:
+
 ![IMG_0197](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/45d4db02-d2dc-46cd-adca-c67d608995a0)
 ![IMG_0183](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/d7aa2d84-de72-4b37-bc32-8b1912d52c14)
 ![IMG_0197](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/7b17e411-c463-4f5d-9b16-9f3b36b8ad78)
@@ -48,10 +56,6 @@ Starship Bubu PCB
 ![IMG_0242](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/d2287797-f259-4afd-ad17-6cda14940c2c)
 ![IMG_0240](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/b0a65986-2a1e-46be-8f99-a7e469667969)
 
-![IMG_0343](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/bb0bad28-7a3d-4b2a-a375-dcb4d4cfe448)
-![IMG_0344](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/73e75975-6a15-4f94-925a-a06b8632c00f)
-![IMG_0345](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/92c49a82-6ae0-4a49-9a74-3ce011eace38)
-
 
 Nov 3, 2023
 Final product is still being testing and still waiting for PER56 encoder to arrive. Firmware working flawlessly. Once the PER56 final piece arrives, then Starship Bubu-01 Prototype will be fully assembled and ready.
@@ -61,7 +65,7 @@ Prototype Test Fit Look:
 
 ![IMG_0244](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/e45f69f3-6914-4ab5-884d-85d2a90fbc7c)
 
-Fusion360 Design
+Fusion360 Design Render:
 
 ![Screenshot 2023-10-26 at 3 34 44 PM](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/307f44d4-6c9e-4680-beb1-ba55135bb610)
 
