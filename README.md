@@ -27,6 +27,18 @@ Here is a picture from Sadek's Fingerpunch discord channel show which plastic an
 ![IMG_0197](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/61e8ccc5-48b5-4f8f-a2ec-1ed818c77f0c)
 ![IMG_0186](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/3f4ff913-51e1-4493-acff-de1168dccc81)
 
+Starship Bubu PCB
+![IMG_0227](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/4955bd08-e7e2-45dd-9845-1056b44975bb)
+![IMG_0228](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/e6ce3ffc-5499-454b-8e7a-6b040e00a519)
+![IMG_0229](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/b8ac8410-f5c8-4ecf-9015-3f173e0406ad)
+
+![IMG_0210](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/05aabe51-43b2-4f19-9b48-bec58670c141)
+![IMG_0211](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/5daa8b80-e103-46d3-a6b9-3d2d33da8135)
+![IMG_0238](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/b3b00d8f-e5d8-4dc9-836b-d713e9e40b63)
+![IMG_0263](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/1fbce025-47b9-4024-b947-117c5e4a881b)
+![IMG_0262](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/afb331e5-be1d-458e-9e9f-7b713740379d)
+![IMG_0242](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/d2287797-f259-4afd-ad17-6cda14940c2c)
+![IMG_0240](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/b0a65986-2a1e-46be-8f99-a7e469667969)
 
 
 
