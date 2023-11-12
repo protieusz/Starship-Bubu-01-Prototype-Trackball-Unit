@@ -11,10 +11,13 @@ Uploaded both STEP and STLs for the case.  I already lost a lot of brain cells d
 
 I will upload a build guide soon.
 
+![IMG_0343](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/bb0bad28-7a3d-4b2a-a375-dcb4d4cfe448)
+![IMG_0344](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/73e75975-6a15-4f94-925a-a06b8632c00f)
+![IMG_0345](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/92c49a82-6ae0-4a49-9a74-3ce011eace38)
+
 Nov 3, 2023
 Final product is still being testing and still waiting for PER56 encoder to arrive. Firmware working flawlessly. Once the PER56 final piece arrives, then Starship Bubu-01 Prototype will be fully assembled and ready.
-Design gerbers will be made public and since this solo trackball is designed using EasyEDA, Kicad pcb file conversion will be a headache so the pcb file will not be released. However, schematic pdf and BOM will be release. The parts are manually hand solder so if you want to print this pcb, 
-be prepared to advanced soldering skills to solder 0402 size components and lots of wiring soldering. Print and use as your own risk! No support will be provided. Please follow the below licensing if you want to modify, use, etc.  Omega Supreme module BOM and gerber files will be release if its own repository which will be updated later on.
+Design gerbers will be made public and since this solo trackball is designed using EasyEDA, Kicad pcb file conversion will be a headache so the pcb file will not be released. However, schematic pdf and BOM will be release. The parts are manually hand solder so if you want to print this pcb, be prepared to advanced soldering skills to solder 0402 size components and lots of wiring soldering. Print and use as your own risk! No support will be provided. Please follow the below licensing if you want to modify, use, etc.  Omega Supreme module BOM and gerber files will be release if its own repository which will be updated later on.
 
 Prototype Test Fit Look:
 
