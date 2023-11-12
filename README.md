@@ -5,6 +5,8 @@ Trackball ball support, encoder support and encoder knob support are all printed
 
 Initially this project was just going to be a working concept prototype and in the end it turns out to be a very functional working build.
 
+QMK source code was borrowed from Aki27's Bally build. I just copy and pasted most of it and adjust minor stuff. No support will be given since I am not well verse in QMK. 
+
 Nov 11,2023
 Upgraded with a janky case. 
 https://www.instagram.com/p/CzhdMmdv5LE/?igshid=YzE4YTliZjNlMA==
