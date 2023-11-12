@@ -47,7 +47,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     
     [_BASE] = LAYOUT(
 
-        CPI_SW/*This is CPI setting, total of 5 setting slow to fast, press to toggle*/,             RGB_TOG, 
+        CPI_SW,/*This is CPI setting, total of 5 setting slow to fast, press to toggle*/             RGB_TOG, 
         KC_MS_BTN1, SCRL_MO,/*This is scroll lock, press key & use trackball to scroll*/KC_MS_BTN2
     ) 
 };
