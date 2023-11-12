@@ -9,6 +9,8 @@ https://www.instagram.com/p/CzhdMmdv5LE/?igshid=YzE4YTliZjNlMA==
 
 Uploaded both STEP and STLs for the case.  I already lost a lot of brain cells designing the case.  Currently the case needs to be sandwiched hot glue together or whatever glue you use.  I hot glue just in case shit happens and I have to take apart and fix stuff.  You can modified the STEP files to your likely to make the case more secure.  I am not going to do any more tinkering with this prototype trackball anymore. Do so at your own risk.
 
+As for the trackball support low profile holder, base PER56 encoder part and the ribbed knob please refer to AriaMelon's Kiwano GitHub for her 3DP STL files. https://github.com/Ariamelon/Kiwano/tree/main/3DP 
+
 I will upload a build guide soon.
 
 ![IMG_0343](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/bb0bad28-7a3d-4b2a-a375-dcb4d4cfe448)
