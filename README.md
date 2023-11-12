@@ -3,6 +3,8 @@ Solo trackball unit powered by my Omega Supreme all in one PMW3660 sensor trackb
 
 Trackball ball support, encoder support and encoder knob support are all printed from Ariamelon's Kiwano VIK module in her GitHub.  
 
+Initially this project was just going to be a working concept prototype and in the end it turns out to be a very functional working build.
+
 Nov 11,2023
 Upgraded with a janky case. 
 https://www.instagram.com/p/CzhdMmdv5LE/?igshid=YzE4YTliZjNlMA==
