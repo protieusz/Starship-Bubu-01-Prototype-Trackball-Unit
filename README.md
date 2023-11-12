@@ -13,6 +13,11 @@ As for the trackball support low profile holder, base PER56 encoder part and the
 
 The trackball/RP2040 module aka the Omega Supreme I use for building the Starship Bubu-01 Prototype is from my OmegaSupreme Rev 1 https://github.com/protieusz/OmegaSupreme 
 As always print at your own risk and for some reason when I install my PER56 encoder the footprint doesn't quite fit so I had to snip off the 2 black plastic anchors and bent one of the anchors a bit in order to fit in. Tight fit but it works.  The PER56 encoder was somehow flipped as per Sadek of Fingerpunch.  I don't feel like going back to flip the footprint and re-route again.  
+Here is a picture from Sadek's Fingerpunch discord channel show which plastic anchors to snip off. [Fingerpunch](https://discord.com/channels/939959680611020840/1104738004574158968/1171529178949103666)
+
+![Screenshot 2023-11-12 at 12 56 26 AM](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/c0f417d2-73b7-4d1a-9268-1d38a24060ce)
+
+
 
 I will upload a build guide soon.
 
