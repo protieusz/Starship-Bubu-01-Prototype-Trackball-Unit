@@ -12,7 +12,7 @@ Uploaded both STEP and STLs for the case.  I already lost a lot of brain cells d
 As for the trackball support low profile holder, base PER56 encoder part and the ribbed knob please refer to AriaMelon's Kiwano GitHub for her 3DP STL files. https://github.com/Ariamelon/Kiwano/tree/main/3DP 
 
 The trackball/RP2040 module aka the Omega Supreme I use for building the Starship Bubu-01 Prototype is from my OmegaSupreme Rev 1 https://github.com/protieusz/OmegaSupreme 
-As always print at your own risk and for some reason when I install my PER56 encoder the footprint doesn't quite fit so I had to snip off the 2 black plastic anchors and bent one of the anchors a bit in order to fit in. Tight fit but it works.  The PER56 encoder was somehow flipped as per Sadek of Fingerpunch.  I don't feel like going back to flip the footprint and re-route again.  
+REV 4 with the cortrected copper plated mount holes have been uploaded to the OmegaSupreme GitHub so print and assemble that one.  As always print at your own risk and for some reason when I install my PER56 encoder the footprint doesn't quite fit so I had to snip off the 2 black plastic anchors and bent one of the anchors a bit in order to fit in. Tight fit but it works.  The PER56 encoder was somehow flipped as per Sadek of Fingerpunch.  I don't feel like going back to flip the footprint and re-route again.  
 
 Here is a picture from Sadek's Fingerpunch discord channel show which plastic anchors to snip off. [Fingerpunch](https://discord.com/channels/939959680611020840/1104738004574158968/1171529178949103666)
 
