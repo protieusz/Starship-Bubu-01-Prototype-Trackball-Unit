@@ -5,6 +5,8 @@ Trackball ball support, encoder support and encoder knob support are all printed
 
 Initially this project was just going to be a working concept prototype and in the end it turns out to be a very functional working build.
 
+Be warned: This project build requires lots of advanced soldering technical skills, lots of dexterityl, time and effort.
+
 QMK source code was borrowed from Aki27's Bally build. I just copy and pasted most of it and adjust minor stuff. No support will be given since I am not well verse in QMK. 
 
 In order to build this Starship Bubu, you would need the Bubu PCB itself and an OmegaSupreme REV 4 module which contains the RP2040 mcu, PMW3360 sensor and PER56 encoder.
