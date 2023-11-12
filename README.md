@@ -44,25 +44,14 @@ Starship Bubu PCB
 ![IMG_0242](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/d2287797-f259-4afd-ad17-6cda14940c2c)
 ![IMG_0240](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/b0a65986-2a1e-46be-8f99-a7e469667969)
 
-
-
-
-I will upload a build guide soon.
-
 ![IMG_0343](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/bb0bad28-7a3d-4b2a-a375-dcb4d4cfe448)
 ![IMG_0344](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/73e75975-6a15-4f94-925a-a06b8632c00f)
 ![IMG_0345](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/92c49a82-6ae0-4a49-9a74-3ce011eace38)
-
-Required OmegaSupreme module
-
 
 
 Nov 3, 2023
 Final product is still being testing and still waiting for PER56 encoder to arrive. Firmware working flawlessly. Once the PER56 final piece arrives, then Starship Bubu-01 Prototype will be fully assembled and ready.
 Design gerbers will be made public and since this solo trackball is designed using EasyEDA, Kicad pcb file conversion will be a headache so the pcb file will not be released. However, schematic pdf and BOM will be release. The parts are manually hand solder so if you want to print this pcb, be prepared to advanced soldering skills to solder 0402 size components and lots of wiring soldering. Print and use as your own risk! No support will be provided. Please follow the below licensing if you want to modify, use, etc.  Omega Supreme module BOM and gerber files will be release if its own repository which will be updated later on.
-Here is a pic of which plastic anchors to snip off. Picture is courtesy of Sadek's Fingerpunch Discord channel, https://discord.com/channels/939959680611020840/1104738004574158968/1171529178949103666 
-
-![Screenshot 2023-11-12 at 12 56 26 AM](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/4b4bfe99-9f09-4a78-b24d-0c7e0fd82208)
 
 Prototype Test Fit Look:
 
