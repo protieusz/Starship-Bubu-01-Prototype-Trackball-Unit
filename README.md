@@ -7,6 +7,8 @@ Initially this project was just going to be a working concept prototype and in t
 
 QMK source code was borrowed from Aki27's Bally build. I just copy and pasted most of it and adjust minor stuff. No support will be given since I am not well verse in QMK. 
 
+In order to build this Starship Bubu, you would need the Bubu PCB itself and an OmegaSupreme REV 4 module which contains the RP2040 mcu, PMW3360 sensor and PER56 encoder.
+
 Nov 11,2023
 Upgraded with a janky case. 
 https://www.instagram.com/p/CzhdMmdv5LE/?igshid=YzE4YTliZjNlMA==
@@ -21,6 +23,8 @@ REV 4 with the cortrected copper plated mount holes have been uploaded to the Om
 Here is a picture from Sadek's Fingerpunch discord channel show which plastic anchors to snip off. [Fingerpunch](https://discord.com/channels/939959680611020840/1104738004574158968/1171529178949103666)
 
 ![Screenshot 2023-11-12 at 12 56 26 AM](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/c0f417d2-73b7-4d1a-9268-1d38a24060ce)
+
+A full build guide will be uploaded soon.
 
 ![IMG_0197](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/45d4db02-d2dc-46cd-adca-c67d608995a0)
 ![IMG_0183](https://github.com/protieusz/Starship-Bubu-01-Prototype-Trackball-Unit/assets/118025702/d7aa2d84-de72-4b37-bc32-8b1912d52c14)
